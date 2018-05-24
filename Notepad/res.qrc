@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/About.png</file>
+        <file>images/Copy.png</file>
+        <file>images/Cut.png</file>
+        <file>images/Exit.png</file>
+        <file>images/Folder.png</file>
+        <file>images/Log Off.ico</file>
+        <file>images/New document.png</file>
+        <file>images/Notepad.ico</file>
+        <file>images/Notepad2.ico</file>
+        <file>images/Paste.png</file>
+        <file>images/Redo.png</file>
+        <file>images/Save.png</file>
+        <file>images/Undo.png</file>
+        <file>Copy.png</file>
+        <file>Cut.png</file>
+        <file>Exit.png</file>
+        <file>Folder.png</file>
+        <file>Log Off.ico</file>
+        <file>New document.png</file>
+        <file>Notepad.ico</file>
+        <file>Notepad2.ico</file>
+        <file>Paste.png</file>
+        <file>Redo.png</file>
+        <file>Save.png</file>
+        <file>Undo.png</file>
+        <file>images/notepadWall.png</file>
+        <file>settings_file.txt</file>
+    </qresource>
+</RCC>
